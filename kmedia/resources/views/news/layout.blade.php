@@ -1,0 +1,1 @@
+<x-navigation :navigation="True" :panel="false"/>
